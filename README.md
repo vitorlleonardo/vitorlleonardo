@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João👋
 
-- 🔭 Trabalhando com Front-End
+- 🔭 Estudante de Front-End
 - 🌱 Aprendendo Java Script e Python
 
 <div align="center">
