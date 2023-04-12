@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João👋
 
 - 🔭 Estudante de Front-End
-- 🌱 Aprendendo Java Script e Python
+- 🌱 Aprendendo Java Script e Sass
 
 <div align="center">
   <a href="https://github.com/vitorlleonardo">
