@@ -1,4 +1,4 @@
-### Olá! Eu sou o João👋
+### Olá! Me chamo João👋
 
 - 🔭 Estudante de Front-End
 - 🌱 Aprendendo Java Script e React
