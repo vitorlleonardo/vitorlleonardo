@@ -1,7 +1,8 @@
-### Olá! Me chamo João👋
+## 👋 Olá! Me chamo João 👋
 
-- 🔭 Estudante de Front-End
-- 🌱 Aprendendo Java Script e React
+🚀 Eu sou um entusiasta da programação, apaixonado por aprender e explorar o mundo da tecnologia. Comecei minha jornada na programação há aproximadamente um ano e meio e desde então tenho mergulhado de cabeça nesse universo fascinante.
+
+💻 Atualmente estou estudando sobre *Java Script e React*, e estou constantemente aprimorando minhas habilidades e conhecimentos. Sempre em busca de desafios e projetos empolgantes para aprimorar minhas habilidades.
 
 <div align="center">
   <a href="https://github.com/vitorlleonardo">
